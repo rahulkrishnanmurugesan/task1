@@ -1,0 +1,15 @@
+my-maven-project/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── Main.java
+│   │   └── resources/
+│   │       └── config.properties
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── MainTest.java
+└── pom.xml
